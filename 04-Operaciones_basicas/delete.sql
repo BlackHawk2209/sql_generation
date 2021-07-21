@@ -1,0 +1,2 @@
+/*BORAMOR ELEMNTEOS*/
+DELETE FROM usuarios WHERE id=6;
